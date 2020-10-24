@@ -1,6 +1,11 @@
-# Localhost
 
-A new Flutter project.
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://github.com/daniel10027/LocalHost/blob/main/assets/images/onboard/second.png" alt="LocalHost" width="400"></a>
+</h1>
+
+<h4 align="center"> <a href="http://daniel-guedegbe.herokuapp.com/" target="_blank">Sample Flutter Project</a>.</h4>
+
 
 ## Getting Started
 

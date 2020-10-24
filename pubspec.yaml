@@ -55,6 +55,7 @@ flutter:
      - assets/icons/
      - assets/images/onboard/
      - assets/images/screens/
+     - assets/images/houses/
      
   #   - images/a_dot_ham.jpeg
 

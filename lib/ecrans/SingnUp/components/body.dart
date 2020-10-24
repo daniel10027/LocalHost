@@ -6,6 +6,7 @@ import 'package:Localhost/ecrans/Login/login.dart';
 import 'package:Localhost/ecrans/SingnUp/components/background.dart';
 import 'package:Localhost/ecrans/SingnUp/components/or_divider.dart';
 import 'package:Localhost/ecrans/SingnUp/components/social_icon.dart';
+import 'package:Localhost/pages/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
@@ -43,7 +44,11 @@ class Body extends StatelessWidget {
 
               RoundedButton(
                 text: "LOGIN",
-                press: () {},
+                press: ()  {Navigator.push(context, MaterialPageRoute(builder: (context){
+                        return DashboardScreen();
+                      }
+                      ))
+                  ;}
               ),
              
               
